@@ -1,0 +1,30 @@
+.pai {
+    background-color:rgb(120, 154, 255);
+    width: 70%; 
+    height: 300px; 
+    border: solid 2px black;
+    border-radius: 10px;
+
+}
+.caixa{
+    background-color:rgb(0, 255, 72);width: 100px; 
+    height: 100px; 
+    border-radius: 70px;
+    border: solid 3px black ;
+    box-shadow: inset -10px -10px 10px rgb(2, 58, 2), inset 3px 3px 5px #FFF;
+    flex-wrap: wrap-reverse;
+      
+}
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+.cor_padrao{
+    color:rgb(0, 0, 0); font-size: 50px
+}
+.cor_textos{
+    color: black;
+    font-size: 50px;
+    
+}
